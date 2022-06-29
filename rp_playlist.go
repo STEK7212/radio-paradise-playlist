@@ -1,9 +1,9 @@
-// This app lists the last 25 titles of the radio-paradise mellow-mix webradio
-// STEK7372 20220627
-// LICENSE:
+// This app starts a webservice that shows the last 25 titles of the radio-paradise mellow-mix webradio
+// STEK7212 20220627
+// LICENSE: MIT
 //
 //
-// todo: add comments
+// todo: code comments
 
 package main
 
